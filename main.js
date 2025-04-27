@@ -10,7 +10,7 @@ for(let i=0; i<botoes.length; i++){
         textos[i].classList.add("ativo");
     }
 }
-/* const contadores = document.querySelectorAll(".contador");
+yrconst contadores = document.querySelectorAll(".contador");
 const tempoObjetivo1 = new Date("2025-04-30T00:00:00");
 const tempoObjetivo2 = new Date("2025-11-22T00:00:00");
 const tempoObjetivo3 = new Date("2025-12-19T00:00:00");
